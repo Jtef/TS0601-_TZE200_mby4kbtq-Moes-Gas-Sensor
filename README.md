@@ -14,7 +14,8 @@ Here is how you add the custom converter in Home Assistant using the Zigbee2MQTT
 
 Please note:
 * Self test switch must be manually set to False if a test was performed;
-* Self test result is always checking... (not sure why)
-* Silence works for an alarm and not for the self test. Must be manually set to False after it is used.
+* Self test result is always checking... (not sure why);
+* Silence works for an alarm and not for the self test. Must be manually set to False after it is used;
+* Fault alarm - unable to test it.
 
 Enjoy!
